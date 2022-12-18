@@ -1,16 +1,6 @@
-# sqflite_flutter
+![Screenshot_1671376353](https://user-images.githubusercontent.com/100241189/208306292-ba0815f0-0d61-403a-b77c-173ee7da5374.png)
 
-A new Flutter project.
 
-## Getting Started
+**Our purchases are also an example of a simple application that will provide practical, easy access to our lists.**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* - Items in the list can be deleted from the list by long pressing*
